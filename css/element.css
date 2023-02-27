@@ -1,0 +1,6 @@
+.element {
+    max-width: 100%;
+    resize: both;
+    background-repeat: no-repeat;
+    background-image: url("../images/backgroundImage.jpg");
+}

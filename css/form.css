@@ -1,0 +1,80 @@
+.container {
+    max-width: 100%;
+    margin: 10px auto;
+}
+
+.form  {
+    max-width: 100%;
+}
+.form__labelText {
+    font-size: 15px;
+    color: #ffffff;
+    max-width: 100%;
+    justify-content: center;
+    padding-bottom: 5px;
+}
+
+.form__legend {
+    font-size: 25px;
+    text-align: center;
+    color: #1a0380;
+    background-color: #e9b4e9ec;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+
+.form__fieldset {
+    max-width: 100%;
+    border: 3px solid #ffffff;
+    border-radius: 10px;
+    box-shadow: 1px -4px 12px #919090;
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+
+.form__button {
+    margin: 0 auto;
+    width: 50%;
+    height: 50px;
+    margin: 5px;
+    color: #000000;
+    background-color: #e9b4e9ec;
+    ;
+}
+
+
+.form__button:hover {
+    background-color: #2b86c7;
+    color: #ffffff;
+    border: solid #4fbcdd;
+    cursor: pointer;
+
+}
+
+.form__input {
+    width: 50%;
+    border-radius: 15px;
+    background-color: #e9b4e9ec;
+    margin: 20px auto;
+    height: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.js-currencyResult {
+    color: #000000;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 10px;
+    text-align: center;
+    justify-content: center;
+}
+
+.form__required {
+    color:#ffffff;
+}
