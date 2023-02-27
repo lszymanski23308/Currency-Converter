@@ -10,3 +10,4 @@
 1. euro 
 1. dolar amerykański 
 1. funt szterling
+- W kodzie użyto konwencji BEM.
