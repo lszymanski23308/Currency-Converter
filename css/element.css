@@ -3,4 +3,5 @@
     resize: both;
     background-repeat: no-repeat;
     background-image: url("../images/backgroundImage.jpg");
+    background-size: cover;
 }
