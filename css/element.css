@@ -1,7 +1,9 @@
 .element {
-    max-width: 100%;
-    resize: both;
-    background-repeat: no-repeat;
-    background-image: url("../images/backgroundImage.jpg");
-    background-size: cover;
+ background-image: url("../images/backgroundImage.jpg");
+ background-size: cover;
+ background-repeat: no-repeat;
+ background-position: center;
+ resize: both;
+ overflow: auto;
 }
+    
