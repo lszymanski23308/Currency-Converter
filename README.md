@@ -1,8 +1,10 @@
-# Łukasz Szymański - kalkulator walut
+# Łukasz Szymański - currency converter
 
 # Demo
 
-[Kalkulator walut](https://lszymanski23308.github.io/currency-converter/)
+https://lszymanski23308.github.io/currency-converter/
+
+![](C:\Users\frontend\Desktop\Animation.gif)
         
 # Opis 
 - Kalkulator który powstał jako jedna z pierwszych prac w kursie **YouCode.**
