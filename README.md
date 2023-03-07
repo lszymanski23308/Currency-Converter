@@ -22,3 +22,4 @@ https://lszymanski23308.github.io/currency-converter/
 - GIT
 - Markdown
 - Flex
+- Normalize
