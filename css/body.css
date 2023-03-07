@@ -1,5 +1,11 @@
 .body {
     max-width: 100%;
+    background-image: url("../images/backgroundImage.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    resize: both;
+    overflow: auto;
+    background-size: cover;
     margin: auto;
     padding: 20px;
     font-family: 'Lato', sans-serif;
