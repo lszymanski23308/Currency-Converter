@@ -1,15 +1,24 @@
 # Łukasz Szymański - currency converter
 
-# Demo
+## Demo
 
 https://lszymanski23308.github.io/currency-converter/
 
-![](C:\Users\frontend\Desktop\Animation.gif)
-        
-# Opis 
-- Kalkulator który powstał jako jedna z pierwszych prac w kursie **YouCode.**
-- Kalkulator pozwala na przeliczenie ze złotówek 3 różnych walut,takich jak:
+## Description
+- Currency calculator which was created as one of the first homework in **YouCode** course.
+- Calculator allows you to convert 3 different currencies from zlotys, such as:
 1. euro 
-1. dolar amerykański 
-1. funt szterling
-- W kodzie użyto konwencji BEM.
+1. US dollar
+1. pound sterling
+
+![animated instruction](https://github.com/lszymanski23308/currency-converter/blob/main/images/Animation.gif)
+        
+## Technologies used in this project :
+- HTML
+- CSS
+- JavaScript 
+- BEM
+- ES6+
+- GIT
+- Markdown
+- Flex
