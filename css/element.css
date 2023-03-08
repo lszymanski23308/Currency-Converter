@@ -1,9 +1,5 @@
 .element {
     max-width: 100%;
-background-color: rgb(15 39 23 / 89%);
- background-repeat: no-repeat;
- background-position: center;
- resize: both;
- overflow: auto;
+    border-radius: 20px;
+    background-color: rgb(15 39 23 / 89%);
 }
-    
