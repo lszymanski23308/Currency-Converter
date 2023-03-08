@@ -1,13 +1,17 @@
 .body {
     max-width: 100%;
-    background-image: url("../images/backgroundImage.jpg");
-    background-repeat: no-repeat;
-    background-position: center;
-    resize: both;
-    overflow: auto;
-    background-size: cover;
-    margin: auto;
+    background-image: url(../images/backgroundImage.jpg);
+    margin: 20px;
     padding: 20px;
     font-family: 'Lato', sans-serif;
-
+}
+.flex{
+    width: 500px;
+}    
+.container {
+    max-width: 100%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
